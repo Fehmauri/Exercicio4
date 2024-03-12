@@ -4,7 +4,7 @@
 
 Bem vindo(a) ao repositório do exercício 4 - Mercado! Este algoritmo foi desenvolvido como parte dos exercícios (4) do PDF.
 
-📚 Por ser um projeto feito no console, acredito que o nível de dificuldade foi bem tranquilo. Foi um exercício bem tranquilo, no qual tive o capricho de deixar a saída, bem parecida com um Cumpom Fiscal!
+📚 Por ser um projeto feito no console, acredito que o nível de dificuldade foi bem tranquilo. Foi um exercício no qual tive o capricho de deixar a saída, bem parecida com um Cumpom Fiscal!
 Nesse algoritmo, começo mostrando para o cliente que o mercado está com uma promoção e solicito para ele que escolha qual carne deseja comprar. Assim que o usuário escolhe qual carne deseja comprar, realizo 
 verificações, para cada caso, realizar a conta da maneira necessária. 
 
